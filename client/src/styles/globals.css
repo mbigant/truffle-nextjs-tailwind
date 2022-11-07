@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+
+a {
+    @apply text-blue-600 underline font-medium
+}
+p {
+    @apply pb-3
+}
+hr {
+    @apply my-4
+}
+ h2 {
+     @apply text-xl font-bold mb-2
+ }
+details {
+    @apply border-gray-300 border p-3 rounded-xl mb-3
+}
+@tailwind utilities;
