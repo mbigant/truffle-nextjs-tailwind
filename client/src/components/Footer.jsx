@@ -8,6 +8,8 @@ function Footer() {
       <h2>More resources</h2>
       <Link uri={"https://trufflesuite.com"} text={"Truffle"} />
       <Link uri={"https://reactjs.org"} text={"React"} />
+      <Link uri={"https://nextjs.org"} text={"NextJs"} />
+      <Link uri={"https://tailwindcss.com"} text={"Tailwind"} />
       <Link uri={"https://soliditylang.org"} text={"Solidity"} />
       <Link uri={"https://ethereum.org"} text={"Ethereum"} />
     </footer >
